@@ -2,8 +2,8 @@
 node.js ,express ,peer.js ,socket.io and uuid-npm
 
 
-![IMG_20220706_194636](https://user-images.githubusercontent.com/84795217/177572248-9ff02344-279f-4709-8352-ab6bb3623109.jpg)
 
+![IMG_20220706_200145](https://user-images.githubusercontent.com/84795217/177575557-d5137b4d-dbcb-43e1-8896-9f402dfa9ba9.jpg)
 
 
 ## Running the app locally
